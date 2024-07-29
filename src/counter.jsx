@@ -11,6 +11,7 @@ function counter(){
         <>
             <h1>{count}</h1>
             <button type="button" onClick={()=>Dispatch(increment())}>Increment</button>
+            df
         </>
     );
 }
